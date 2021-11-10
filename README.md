@@ -7,6 +7,6 @@ This is my first R task during my Masters. The file contain UK Data Police in We
 
 ## Structure
 
-#### 1. Crime Cases in  West Yorkshire and Leeds During Covid-19 (Lockdown and Relaxation of Restrictions' Effect)
+#### 1. The Number of Crime Cases in  West Yorkshire and Leeds During Covid-19 (Lockdown and Relaxation of Restrictions' Effect)
 #### 2. The Changes of Number Crime Types in Peaks-Valleys
 #### 3. Mapping Area for Spesific Crime Types that Happened Significantly
