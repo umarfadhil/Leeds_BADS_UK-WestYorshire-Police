@@ -12,7 +12,7 @@ This is my first R task during my Master's study. The file contains UK Data Poli
 #### 3. Mapping Area for Specific Crime Types that Happened Significantly
 
 
-## Conclusion
+## Conclusions
 
 - Lockdown made the number of streel level crimes in West Yorkshire and Leeds decrease significantly and touched the all-time low in the given period. However, the statements that authorisation made about lifting it made the number of crimes rocketing until they reached their peak one month after the lockdown was completely deployed. West Yorkshire and Leeds had the same pattern throughout the period.
 
